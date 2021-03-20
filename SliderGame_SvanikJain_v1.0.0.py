@@ -2,7 +2,7 @@ from tkinter import *
 import random
 import time
 import tkinter.messagebox as showinfo
-from PIL import Image,ImageTk
+
 
 
 # Configurations
